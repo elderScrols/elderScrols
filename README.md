@@ -1,7 +1,11 @@
 ### Olá e bem-vindo ao meu perfil do GitHub! Eu sou o Welder Claudio 💻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welderc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elderscrols3?igshid=YmMyMTA2M2Y=)
+  <a href="https://instagram.com/elderscrols3" target="_blank">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:welder.carlos53@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/welderc" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![elderScrols GitHub stats](https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
