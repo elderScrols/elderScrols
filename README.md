@@ -7,8 +7,7 @@
   <a href="https://www.linkedin.com/in/welderc" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![elderScrols GitHub stats](https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&theme=transparent"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&show_icons=true&theme=transparent">
 
 ## Tecnologias que eu uso no meu dia
 
