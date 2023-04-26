@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/welderc" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&langs_count=7&theme=dark">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&langs_count=7&theme=dark">
 </div>  
 <h3>Tecnologias que eu uso no meu dia</h3>
 
@@ -19,6 +19,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div><br>
+
 <img height="400" width="450" align=left src ="https://user-images.githubusercontent.com/111553376/234618211-9c9a60cc-b9a5-4f82-92c0-00a29f40662f.gif" />
 <h1 align="center"> Sobre mim </h1>
 <p align="center">Sou desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Minha jornada na programação começou há pouco tempo e desde então tenho explorado diversas linguagens e tecnologias, sempre  buscando aprender e aprimorar minhas habilidades. Atualmente, meu foco principal é em projetos de desenvolvimento web e Back-end, mas estou sempre aberto a novas oportunidades e experiências. Sinta-se à vontade  para explorar meus repositórios e contribuições, e não hesite em entrar em contato para discutir ideias ou projetos interessantes. Vamos construir algo incrível juntos!😄</p>
