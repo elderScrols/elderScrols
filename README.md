@@ -6,17 +6,18 @@
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/welderc" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&langs_count=7&theme=dark">
+</div>  
+<h3>Tecnologias que eu uso no meu dia</h3>
 
-<img height="140" width="340" src="https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&theme=transparent"> <img height="140" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&show_icons=true&theme=transparent">
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block"><br/>
-   <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center"alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-   <img align="center"alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img align="center"alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-   <img align="center"alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div><br>
 <img height="400" width="450" align=left src ="https://user-images.githubusercontent.com/111553376/234618211-9c9a60cc-b9a5-4f82-92c0-00a29f40662f.gif" />
 <h1 align="center"> Sobre mim </h1>
