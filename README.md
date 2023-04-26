@@ -21,8 +21,8 @@
 <img height="400" width="450" align=left src ="https://user-images.githubusercontent.com/111553376/234618211-9c9a60cc-b9a5-4f82-92c0-00a29f40662f.gif" />
 <h1 align="center"> Sobre mim </h1>
 <p align="center">Sou desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Minha jornada na programação começou há pouco tempo e desde então tenho explorado diversas linguagens e tecnologias, sempre  buscando aprender e aprimorar minhas habilidades. Atualmente, meu foco principal é em projetos de desenvolvimento web e Back-end, mas estou sempre aberto a novas oportunidades e experiências. Sinta-se à vontade  para explorar meus repositórios e contribuições, e não hesite em entrar em contato para discutir ideias ou projetos interessantes. Vamos construir algo incrível juntos!😄</p>
-<h1 align="center"> Game Favorito </h1>
-<h2  align="center"> Skyrim </h2>
+<h2 align="center"> Game Favorito </h2>
+<h3  align="center"> Skyrim </h3>
 
    
    
