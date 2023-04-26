@@ -22,7 +22,7 @@
 <h1 align="center"> Sobre mim </h1>
 <p align="center">Sou desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Minha jornada na programação começou há pouco tempo e desde então tenho explorado diversas linguagens e tecnologias, sempre  buscando aprender e aprimorar minhas habilidades. Atualmente, meu foco principal é em projetos de desenvolvimento web e Back-end, mas estou sempre aberto a novas oportunidades e experiências. Sinta-se à vontade  para explorar meus repositórios e contribuições, e não hesite em entrar em contato para discutir ideias ou projetos interessantes. Vamos construir algo incrível juntos!😄</p>
 <h2 align="center"> Game Favorito </h2>
-<h3  align="center"> Skyrim </h3>
+<p align="center"><strong>Skyrim</strong></p>
 
    
    
