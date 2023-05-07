@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/welderc" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-<img height="150em" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&langs_count=7&theme=dark">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<img height="220" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&langs_count=7&theme=dark">
 </div>  
 <h3>Tecnologias que eu uso no meu dia</h3>
 
