@@ -1,15 +1,20 @@
-### Olá e bem-vindo ao meu perfil do GitHub! Eu sou o Welder Claudio 💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
 
-  <a href="https://instagram.com/elderscrols3" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:welder.carlos53@gmail.com">
-   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/welderc" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<div>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-<img height="200" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&langs_count=7&theme=dark">
-</div>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Este+é+meu+perfil+do+GitHub!;Eu+sou+o+Welder+Claudio;Eu+tenho+19+anos;Espero+que+encontre+algo+interessante;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elderScrols&bg_color=0d1117&color=C0C0C0&line=DCDCDC&point=D3D3D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elderScrols&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=696969&text_color=c9d1d9&bg_color=0d1117" alt="Welder Claudio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderScrols&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <a href="https://instagram.com/elderscrols3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:welder.carlos53@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/welderc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+ </div>
+
 <h3>Tecnologias que eu uso no meu dia</h3>
 
 <div style="display: inline_block"><br>
