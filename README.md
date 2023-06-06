@@ -16,14 +16,15 @@
  </div>
 
 <h3>Tecnologias que eu uso no meu dia</h3>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div><br>
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![html](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=FF4500&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=R&logoColor=00BFFF&labelColor=0D1117)&nbsp;
+  
+<br>
 
 <hr>
 <img height="450" width="430" align=left src ="https://user-images.githubusercontent.com/111553376/234618211-9c9a60cc-b9a5-4f82-92c0-00a29f40662f.gif" />
@@ -34,5 +35,5 @@
 <h2 align="center"> Game Favorito </h2>
 <p align="center"><strong>Skyrim</strong></p>
 <hr>
-   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
    
